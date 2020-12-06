@@ -1,3 +1,2 @@
-# Welcome to my blog
-
+# Welcome to my blog, yeah yeah!
 I'm glad you are here. I plan to talk about ...
